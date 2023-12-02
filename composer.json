@@ -27,7 +27,7 @@
     "ext-json": "*",
     "ext-openssl": "*",
     "imdhemy/appstore-iap": "^1.6",
-    "imdhemy/google-play-billing": "1.x",
+    "wameed/google-play-billing": "1.x",
     "laravel/framework": ">=8.0"
   },
   "require-dev": {
