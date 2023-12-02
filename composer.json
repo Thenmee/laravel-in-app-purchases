@@ -22,12 +22,13 @@
       "type": "git"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "php": ">=8.0",
     "ext-json": "*",
     "ext-openssl": "*",
     "imdhemy/appstore-iap": "^1.6",
-    "wameed/google-play-billing": "1.x",
+    "wameed/google-play-billing": "master",
     "laravel/framework": ">=8.0"
   },
   "require-dev": {
