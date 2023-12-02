@@ -21,11 +21,11 @@
       "type": "package",
       "package": {
         "name": "Thenmee/google-play-billing",
-        "version": "master",
+        "version": "1.x",
         "source": {
           "url": "https://github.com/Thenmee/google-play-billing.git",
           "type": "git",
-          "reference": "master"
+          "reference": "1.x"
         }
       }
     }
@@ -35,7 +35,7 @@
     "ext-json": "*",
     "ext-openssl": "*",
     "imdhemy/appstore-iap": "^1.6",
-    "Thenmee/google-play-billing": "^1.5",
+    "Thenmee/google-play-billing": "1.x",
     "laravel/framework": ">=8.0"
   },
   "require-dev": {
