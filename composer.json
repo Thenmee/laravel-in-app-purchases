@@ -18,16 +18,8 @@
   ],
   "repositories": [
     {
-      "type": "package",
-      "package": {
-        "name": "Thenmee/google-play-billing",
-        "version": "1.x",
-        "source": {
-          "url": "https://github.com/Thenmee/google-play-billing.git",
-          "type": "git",
-          "reference": "1.x"
-        }
-      }
+      "url": "https://github.com/thenmee/google-play-billing.git",
+      "type": "git"
     }
   ],
   "require": {
@@ -35,7 +27,7 @@
     "ext-json": "*",
     "ext-openssl": "*",
     "imdhemy/appstore-iap": "^1.6",
-    "Thenmee/google-play-billing": "1.x",
+    "imdhemy/google-play-billing": "1.x-dev",
     "laravel/framework": ">=8.0"
   },
   "require-dev": {
